@@ -5,11 +5,11 @@ const Employees = [
         Age:"22"
     },{
         id:"2",
-        Name:"Huseyn Fogito",
+        Name:"Huseyn ",
         Age:"30"
     },{
         id:"3",
-        Name:"Senan Senior",
+        Name:"Yunus",
         Age:"28"
     }
 ]
